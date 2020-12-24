@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T08:16:31.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.454" etag="afmZzZMJOIjXSkOgCetk" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T08:23:09.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.454" etag="pQrIxge7H-oHwrl3T6Lo" version="14.1.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="10034" dy="5160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,24 @@
         </mxCell>
         <mxCell id="3K_2A4jeLSDLtEPb2Hma-37" value="string" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="3K_2A4jeLSDLtEPb2Hma-36">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_2A4jeLSDLtEPb2Hma-38" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Type&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#006658;fillColor=#21C0A5;fontFamily=Helvetica;fontSize=29;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="730" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_2A4jeLSDLtEPb2Hma-39" value="" style="endArrow=classic;html=1;strokeColor=#006658;fillColor=#21C0A5;fontColor=#FFFFFF;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="3K_2A4jeLSDLtEPb2Hma-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827" y="180" as="sourcePoint" />
+            <mxPoint x="1353" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K_2A4jeLSDLtEPb2Hma-40" value="string" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="3K_2A4jeLSDLtEPb2Hma-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_2A4jeLSDLtEPb2Hma-42" value="Data values" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3K_2A4jeLSDLtEPb2Hma-43" value="&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li&gt;ID: Cargo ID(A.I)&lt;/li&gt;&lt;li&gt;Sender: Sender name, lastname&lt;/li&gt;&lt;li&gt;Receiver: Receiver name, lastname&lt;/li&gt;&lt;li&gt;From: Province of sender&lt;/li&gt;&lt;li&gt;To: Province of receiver&lt;/li&gt;&lt;li&gt;Weight: Weight of cargo&lt;/li&gt;&lt;li&gt;Type: Type of cargo&lt;/li&gt;&lt;li&gt;Date: Transaction date&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;rounded=0;sketch=0;fontColor=#000099;fontSize=28;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1274" y="40" width="380" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
